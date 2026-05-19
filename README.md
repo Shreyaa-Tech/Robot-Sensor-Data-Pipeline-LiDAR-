@@ -17,8 +17,7 @@ sensor_pipeline/
 │   ├── fig1_raw_data.png
 │   ├── fig2_cleaned_data.png
 │   └── fig3_anomaly_heatmap.png
-└── tests/
-    └── test_pipeline.py   # pytest unit tests (≥80% coverage)
+
 ```
 
 ---
